@@ -1,5 +1,5 @@
 [package]
-name = "rssn"
+name = "rssn-experimental"
 version = "0.1.13"
 edition = "2021"
 authors = ["The rssn developers"]
